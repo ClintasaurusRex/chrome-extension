@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "description": "Chrome extension boilerplate",
   "icons": {
-    "16": "images/webpage-icon.png",
-    "48": "images/webpage-icon.png",
-    "128": "images/webpage-icon.png"
+    "16": "images/tldr_icon.png",
+    "48": "images/tldr_icon.png",
+    "128": "images/tldr_icon.png"
   },
   "action": {
-    "default_icon": "images/webpage-icon.png",
+    "default_icon": "images/tldr_icon.png",
     "default_popup": "popup/popup.html",
     "default_title": "Chrome Extension Boilerplate"
   },
